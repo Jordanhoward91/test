@@ -1,5 +1,5 @@
-UI Course Introduction
-Introduction to User Interface and Design For Developers
+#UI Course Introduction
+##Introduction to User Interface and Design For Developers
 
 {width: 8, float: left}
 ![](jordan.png)
